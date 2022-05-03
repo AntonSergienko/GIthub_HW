@@ -1,0 +1,4 @@
+Name: Sergienko Anton
+Age: 31
+Pet: Cat
+Salary: 1000000 BTCi
